@@ -11,7 +11,7 @@ export default {
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
-  "organizationName": "AjaIoa",
+  "organizationName": "testSnap",
   "projectName": "Homer-test",
   "i18n": {
     "defaultLocale": "en",
