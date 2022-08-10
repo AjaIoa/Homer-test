@@ -1,0 +1,24 @@
+{
+  "unversionedId": "jitsi/jitsi-box/jitsi-bo",
+  "id": "jitsi/jitsi-box/jitsi-bo",
+  "title": "jitsi-bo",
+  "description": "",
+  "source": "@site/docs/jitsi/jitsi-box/jitsi-bo.md",
+  "sourceDirName": "jitsi/jitsi-box",
+  "slug": "/jitsi/jitsi-box/jitsi-bo",
+  "permalink": "/Docusaurus1/docs/jitsi/jitsi-box/jitsi-bo",
+  "draft": false,
+  "editUrl": "https://github.com/AjaIoa/Docusaurus1/docs/jitsi/jitsi-box/jitsi-bo.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "jitsi-box",
+    "permalink": "/Docusaurus1/docs/jitsi/jitsi-box/"
+  },
+  "next": {
+    "title": "sip-media-deploy",
+    "permalink": "/Docusaurus1/docs/jitsi/sip-media/sip-media-deploy"
+  }
+}

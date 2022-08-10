@@ -1,0 +1,24 @@
+{
+  "unversionedId": "jitsi/jitsi-box/iitsi-box2",
+  "id": "jitsi/jitsi-box/iitsi-box2",
+  "title": "iitsi-box2",
+  "description": "",
+  "source": "@site/docs/jitsi/jitsi-box/iitsi-box2.md",
+  "sourceDirName": "jitsi/jitsi-box",
+  "slug": "/jitsi/jitsi-box/iitsi-box2",
+  "permalink": "/Docusaurus1/docs/jitsi/jitsi-box/iitsi-box2",
+  "draft": false,
+  "editUrl": "https://github.com/AjaIoa/Docusaurus1/docs/jitsi/jitsi-box/iitsi-box2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "jitsi",
+    "permalink": "/Docusaurus1/docs/jitsi/"
+  },
+  "next": {
+    "title": "sip-media-deploy",
+    "permalink": "/Docusaurus1/docs/jitsi/sip-media/sip-media-deploy"
+  }
+}

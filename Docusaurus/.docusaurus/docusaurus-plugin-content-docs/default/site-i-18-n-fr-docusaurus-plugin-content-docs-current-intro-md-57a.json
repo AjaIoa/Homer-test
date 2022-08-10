@@ -1,0 +1,23 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "title": "Intro Tutorial",
+  "description": "Découvrons Docusaurus en moins de 5 minutes.",
+  "source": "@site/i18n/fr/docusaurus-plugin-content-docs/current/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/Docusaurus1/fr/docs/intro",
+  "draft": false,
+  "editUrl": "https://github.com/AjaIoa/Docusaurus1/blob/master/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Tutorial - Basics",
+    "permalink": "/Docusaurus1/fr/docs/category/tutorial---basics"
+  }
+}

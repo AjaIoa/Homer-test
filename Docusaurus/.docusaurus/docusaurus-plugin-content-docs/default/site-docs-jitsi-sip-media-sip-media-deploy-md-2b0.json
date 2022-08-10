@@ -1,0 +1,23 @@
+{
+  "unversionedId": "jitsi/sip-media/sip-media-deploy",
+  "id": "jitsi/sip-media/sip-media-deploy",
+  "title": "SIPMediaDeploy",
+  "description": "This repository hosts all scripts that permit to deploy from scratch the entire SIP Media Gateway stack! It is divided in three parts:",
+  "source": "@site/docs/jitsi/sip-media/sip-media-deploy.md",
+  "sourceDirName": "jitsi/sip-media",
+  "slug": "/jitsi/sip-media/sip-media-deploy",
+  "permalink": "/Docusaurus1/docs/jitsi/sip-media/sip-media-deploy",
+  "draft": false,
+  "editUrl": "https://github.com/AjaIoa/Docusaurus1/blob/master/docs/jitsi/sip-media/sip-media-deploy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Jitsi Box",
+    "permalink": "/Docusaurus1/docs/jitsi/jitsi-box/j-box-"
+  }
+}

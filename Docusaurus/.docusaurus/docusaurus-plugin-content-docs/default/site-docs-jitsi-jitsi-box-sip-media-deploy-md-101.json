@@ -1,0 +1,24 @@
+{
+  "unversionedId": "jitsi/jitsi-box/sip-media-deploy",
+  "id": "jitsi/jitsi-box/sip-media-deploy",
+  "title": "sip-media-deploy",
+  "description": "",
+  "source": "@site/docs/jitsi/jitsi-box/sip-media-deploy.md",
+  "sourceDirName": "jitsi/jitsi-box",
+  "slug": "/jitsi/jitsi-box/sip-media-deploy",
+  "permalink": "/Docusaurus1/docs/jitsi/jitsi-box/sip-media-deploy",
+  "draft": false,
+  "editUrl": "https://github.com/AjaIoa/Docusaurus1/docs/jitsi/jitsi-box/sip-media-deploy.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "jitsi",
+    "permalink": "/Docusaurus1/docs/jitsi/"
+  },
+  "next": {
+    "title": "sip-media-deploy",
+    "permalink": "/Docusaurus1/docs/jitsi/sip-media/sip-media-deploy"
+  }
+}
