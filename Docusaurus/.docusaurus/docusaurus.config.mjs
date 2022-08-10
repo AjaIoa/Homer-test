@@ -4,15 +4,15 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Docusaurus",
+  "title": "Docusaurus Homer-Test",
   "tagline": "Documenter c'est cool",
   "url": "https://AjaIoa.github.io",
-  "baseUrl": "/Docusaurus1/",
+  "baseUrl": "/Homer-test/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
   "organizationName": "AjaIoa",
-  "projectName": "Docusaurus1",
+  "projectName": "Homer-test",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -27,7 +27,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\AJAYGOSH Ioan\\Desktop\\docTest\\my-website\\sidebars.js",
+          "sidebarPath": "C:\\Users\\AJAYGOSH Ioan\\Homer\\Homer-test\\Docusaurus\\sidebars.js",
           "editUrl": "https://github.com/AjaIoa/Docusaurus1/blob/master/"
         },
         "blog": {
@@ -35,7 +35,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "C:\\Users\\AJAYGOSH Ioan\\Desktop\\docTest\\my-website\\src\\css\\custom.css"
+          "customCss": "C:\\Users\\AJAYGOSH Ioan\\Homer\\Homer-test\\Docusaurus\\src\\css\\custom.css"
         }
       }
     ]
@@ -60,7 +60,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/AjaIoa/Docusaurus1/",
+          "href": "https://github.com/AjaIoa/Homer-test/",
           "label": "GitHub",
           "position": "right"
         },
@@ -111,7 +111,7 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/AjaIoa/Docusaurus1"
+              "href": "https://github.com/AjaIoa/Homer-test"
             }
           ]
         }

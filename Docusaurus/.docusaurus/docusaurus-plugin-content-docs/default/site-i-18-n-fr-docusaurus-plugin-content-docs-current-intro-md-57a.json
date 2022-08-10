@@ -6,7 +6,7 @@
   "source": "@site/i18n/fr/docusaurus-plugin-content-docs/current/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/Docusaurus1/fr/docs/intro",
+  "permalink": "/Homer-test/fr/docs/intro",
   "draft": false,
   "editUrl": "https://github.com/AjaIoa/Docusaurus1/blob/master/docs/intro.md",
   "tags": [],
@@ -18,6 +18,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Tutorial - Basics",
-    "permalink": "/Docusaurus1/fr/docs/category/tutorial---basics"
+    "permalink": "/Homer-test/fr/docs/category/tutorial---basics"
   }
 }

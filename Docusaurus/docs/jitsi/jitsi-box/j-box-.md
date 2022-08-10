@@ -27,3 +27,6 @@ All of these outputs can be chosen by he/she who setups the jitsi-box in a room.
 A version of the application is available on https://jitsi-box.com
 
 The application has been configured as a Progressive Web App and can therefore be installed on the desktop of any device.
+
+
+[Edit](https://github.com/AjaIoa/Homer-test/blob/master/Docusaurus/docs/jitsi/jitsi-box/j-box-.md)

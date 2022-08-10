@@ -6,7 +6,7 @@
   "source": "@site/docs/tutorial-basics/deploy-your-site.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/deploy-your-site",
-  "permalink": "/Docusaurus1/docs/tutorial-basics/deploy-your-site",
+  "permalink": "/Homer-test/docs/tutorial-basics/deploy-your-site",
   "draft": false,
   "editUrl": "https://github.com/AjaIoa/Docusaurus1/blob/master/docs/tutorial-basics/deploy-your-site.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Markdown Features",
-    "permalink": "/Docusaurus1/docs/tutorial-basics/markdown-features"
+    "permalink": "/Homer-test/docs/tutorial-basics/markdown-features"
   },
   "next": {
     "title": "Congratulations!",
-    "permalink": "/Docusaurus1/docs/tutorial-basics/congratulations"
+    "permalink": "/Homer-test/docs/tutorial-basics/congratulations"
   }
 }

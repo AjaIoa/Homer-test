@@ -2,11 +2,11 @@
   "unversionedId": "jitsi/jitsi",
   "id": "jitsi/jitsi",
   "title": "Jitsi",
-  "description": "",
+  "description": "Edit",
   "source": "@site/docs/jitsi/jitsi.md",
   "sourceDirName": "jitsi",
   "slug": "/jitsi/",
-  "permalink": "/Docusaurus1/docs/jitsi/",
+  "permalink": "/Homer-test/docs/jitsi/",
   "draft": false,
   "editUrl": "https://github.com/AjaIoa/Docusaurus1/blob/master/docs/jitsi/jitsi.md",
   "tags": [],
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Translate your site",
-    "permalink": "/Docusaurus1/docs/tutorial-extras/translate-your-site"
+    "permalink": "/Homer-test/docs/tutorial-extras/translate-your-site"
   },
   "next": {
     "title": "Jitsi Box",
-    "permalink": "/Docusaurus1/docs/jitsi/jitsi-box/j-box-"
+    "permalink": "/Homer-test/docs/jitsi/jitsi-box/j-box-"
   }
 }

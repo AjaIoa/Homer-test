@@ -8,16 +8,63 @@
           "banner": null,
           "badge": false,
           "className": "docs-version-current",
-          "path": "/Docusaurus1/docs",
-          "tagsPath": "/Docusaurus1/docs/tags",
+          "path": "/Homer-test/docs",
+          "tagsPath": "/Homer-test/docs/tags",
           "editUrl": "https://github.com/AjaIoa/Docusaurus1/blob/master/docs",
           "editUrlLocalized": "https://github.com/AjaIoa/Docusaurus1/blob/master/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "C:\\Users\\AJAYGOSH Ioan\\Desktop\\docTest\\my-website\\sidebars.js",
-          "contentPath": "C:\\Users\\AJAYGOSH Ioan\\Desktop\\docTest\\my-website\\docs",
-          "contentPathLocalized": "C:\\Users\\AJAYGOSH Ioan\\Desktop\\docTest\\my-website\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "C:\\Users\\AJAYGOSH Ioan\\Homer\\Homer-test\\Docusaurus\\sidebars.js",
+          "contentPath": "C:\\Users\\AJAYGOSH Ioan\\Homer\\Homer-test\\Docusaurus\\docs",
+          "contentPathLocalized": "C:\\Users\\AJAYGOSH Ioan\\Homer\\Homer-test\\Docusaurus\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
+            {
+              "unversionedId": "homer/homer",
+              "id": "homer/homer",
+              "title": "homer",
+              "description": "A hybrid classroom combines traditional face-to-face teaching with online teaching.",
+              "source": "@site/docs/homer/homer.md",
+              "sourceDirName": "homer",
+              "slug": "/homer/",
+              "permalink": "/Homer-test/docs/homer/",
+              "draft": false,
+              "editUrl": "https://github.com/AjaIoa/Docusaurus1/blob/master/docs/homer/homer.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SIPMediaDeploy",
+                "permalink": "/Homer-test/docs/jitsi/sip-media/sip-media-deploy"
+              },
+              "next": {
+                "title": "Test",
+                "permalink": "/Homer-test/docs/homer/j-box-"
+              }
+            },
+            {
+              "unversionedId": "homer/j-box-",
+              "id": "homer/j-box-",
+              "title": "Test",
+              "description": "Jitsi Box, an opensource device for hybrid classrooms and conferences",
+              "source": "@site/docs/homer/j-box-.md",
+              "sourceDirName": "homer",
+              "slug": "/homer/j-box-",
+              "permalink": "/Homer-test/docs/homer/j-box-",
+              "draft": false,
+              "editUrl": "https://github.com/AjaIoa/Docusaurus1/blob/master/docs/homer/j-box-.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "homer",
+                "permalink": "/Homer-test/docs/homer/"
+              }
+            },
             {
               "unversionedId": "intro",
               "id": "intro",
@@ -26,7 +73,7 @@
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
-              "permalink": "/Docusaurus1/docs/intro",
+              "permalink": "/Homer-test/docs/intro",
               "draft": false,
               "editUrl": "https://github.com/AjaIoa/Docusaurus1/blob/master/docs/intro.md",
               "tags": [],
@@ -38,18 +85,18 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "Tutorial - Basics",
-                "permalink": "/Docusaurus1/docs/category/tutorial---basics"
+                "permalink": "/Homer-test/docs/category/tutorial---basics"
               }
             },
             {
               "unversionedId": "jitsi/jitsi",
               "id": "jitsi/jitsi",
               "title": "Jitsi",
-              "description": "",
+              "description": "Edit",
               "source": "@site/docs/jitsi/jitsi.md",
               "sourceDirName": "jitsi",
               "slug": "/jitsi/",
-              "permalink": "/Docusaurus1/docs/jitsi/",
+              "permalink": "/Homer-test/docs/jitsi/",
               "draft": false,
               "editUrl": "https://github.com/AjaIoa/Docusaurus1/blob/master/docs/jitsi/jitsi.md",
               "tags": [],
@@ -58,11 +105,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Translate your site",
-                "permalink": "/Docusaurus1/docs/tutorial-extras/translate-your-site"
+                "permalink": "/Homer-test/docs/tutorial-extras/translate-your-site"
               },
               "next": {
                 "title": "Jitsi Box",
-                "permalink": "/Docusaurus1/docs/jitsi/jitsi-box/j-box-"
+                "permalink": "/Homer-test/docs/jitsi/jitsi-box/j-box-"
               }
             },
             {
@@ -73,7 +120,7 @@
               "source": "@site/docs/jitsi/jitsi-box/j-box-.md",
               "sourceDirName": "jitsi/jitsi-box",
               "slug": "/jitsi/jitsi-box/j-box-",
-              "permalink": "/Docusaurus1/docs/jitsi/jitsi-box/j-box-",
+              "permalink": "/Homer-test/docs/jitsi/jitsi-box/j-box-",
               "draft": false,
               "editUrl": "https://github.com/AjaIoa/Docusaurus1/blob/master/docs/jitsi/jitsi-box/j-box-.md",
               "tags": [],
@@ -85,11 +132,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Jitsi",
-                "permalink": "/Docusaurus1/docs/jitsi/"
+                "permalink": "/Homer-test/docs/jitsi/"
               },
               "next": {
                 "title": "SIPMediaDeploy",
-                "permalink": "/Docusaurus1/docs/jitsi/sip-media/sip-media-deploy"
+                "permalink": "/Homer-test/docs/jitsi/sip-media/sip-media-deploy"
               }
             },
             {
@@ -100,7 +147,7 @@
               "source": "@site/docs/jitsi/sip-media/sip-media-deploy.md",
               "sourceDirName": "jitsi/sip-media",
               "slug": "/jitsi/sip-media/sip-media-deploy",
-              "permalink": "/Docusaurus1/docs/jitsi/sip-media/sip-media-deploy",
+              "permalink": "/Homer-test/docs/jitsi/sip-media/sip-media-deploy",
               "draft": false,
               "editUrl": "https://github.com/AjaIoa/Docusaurus1/blob/master/docs/jitsi/sip-media/sip-media-deploy.md",
               "tags": [],
@@ -112,7 +159,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Jitsi Box",
-                "permalink": "/Docusaurus1/docs/jitsi/jitsi-box/j-box-"
+                "permalink": "/Homer-test/docs/jitsi/jitsi-box/j-box-"
+              },
+              "next": {
+                "title": "homer",
+                "permalink": "/Homer-test/docs/homer/"
               }
             },
             {
@@ -123,7 +174,7 @@
               "source": "@site/docs/tutorial-basics/congratulations.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/congratulations",
-              "permalink": "/Docusaurus1/docs/tutorial-basics/congratulations",
+              "permalink": "/Homer-test/docs/tutorial-basics/congratulations",
               "draft": false,
               "editUrl": "https://github.com/AjaIoa/Docusaurus1/blob/master/docs/tutorial-basics/congratulations.md",
               "tags": [],
@@ -135,11 +186,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Deploy your site",
-                "permalink": "/Docusaurus1/docs/tutorial-basics/deploy-your-site"
+                "permalink": "/Homer-test/docs/tutorial-basics/deploy-your-site"
               },
               "next": {
                 "title": "Tutorial - Extras",
-                "permalink": "/Docusaurus1/docs/category/tutorial---extras"
+                "permalink": "/Homer-test/docs/category/tutorial---extras"
               }
             },
             {
@@ -150,7 +201,7 @@
               "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/create-a-blog-post",
-              "permalink": "/Docusaurus1/docs/tutorial-basics/create-a-blog-post",
+              "permalink": "/Homer-test/docs/tutorial-basics/create-a-blog-post",
               "draft": false,
               "editUrl": "https://github.com/AjaIoa/Docusaurus1/blob/master/docs/tutorial-basics/create-a-blog-post.md",
               "tags": [],
@@ -162,11 +213,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Create a Document",
-                "permalink": "/Docusaurus1/docs/tutorial-basics/create-a-document"
+                "permalink": "/Homer-test/docs/tutorial-basics/create-a-document"
               },
               "next": {
                 "title": "Markdown Features",
-                "permalink": "/Docusaurus1/docs/tutorial-basics/markdown-features"
+                "permalink": "/Homer-test/docs/tutorial-basics/markdown-features"
               }
             },
             {
@@ -177,7 +228,7 @@
               "source": "@site/docs/tutorial-basics/create-a-document.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/create-a-document",
-              "permalink": "/Docusaurus1/docs/tutorial-basics/create-a-document",
+              "permalink": "/Homer-test/docs/tutorial-basics/create-a-document",
               "draft": false,
               "editUrl": "https://github.com/AjaIoa/Docusaurus1/blob/master/docs/tutorial-basics/create-a-document.md",
               "tags": [],
@@ -189,11 +240,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Create a Page",
-                "permalink": "/Docusaurus1/docs/tutorial-basics/create-a-page"
+                "permalink": "/Homer-test/docs/tutorial-basics/create-a-page"
               },
               "next": {
                 "title": "Create a Blog Post",
-                "permalink": "/Docusaurus1/docs/tutorial-basics/create-a-blog-post"
+                "permalink": "/Homer-test/docs/tutorial-basics/create-a-blog-post"
               }
             },
             {
@@ -204,7 +255,7 @@
               "source": "@site/docs/tutorial-basics/create-a-page.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/create-a-page",
-              "permalink": "/Docusaurus1/docs/tutorial-basics/create-a-page",
+              "permalink": "/Homer-test/docs/tutorial-basics/create-a-page",
               "draft": false,
               "editUrl": "https://github.com/AjaIoa/Docusaurus1/blob/master/docs/tutorial-basics/create-a-page.md",
               "tags": [],
@@ -216,11 +267,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Tutorial - Basics",
-                "permalink": "/Docusaurus1/docs/category/tutorial---basics"
+                "permalink": "/Homer-test/docs/category/tutorial---basics"
               },
               "next": {
                 "title": "Create a Document",
-                "permalink": "/Docusaurus1/docs/tutorial-basics/create-a-document"
+                "permalink": "/Homer-test/docs/tutorial-basics/create-a-document"
               }
             },
             {
@@ -231,7 +282,7 @@
               "source": "@site/docs/tutorial-basics/deploy-your-site.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/deploy-your-site",
-              "permalink": "/Docusaurus1/docs/tutorial-basics/deploy-your-site",
+              "permalink": "/Homer-test/docs/tutorial-basics/deploy-your-site",
               "draft": false,
               "editUrl": "https://github.com/AjaIoa/Docusaurus1/blob/master/docs/tutorial-basics/deploy-your-site.md",
               "tags": [],
@@ -243,11 +294,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Markdown Features",
-                "permalink": "/Docusaurus1/docs/tutorial-basics/markdown-features"
+                "permalink": "/Homer-test/docs/tutorial-basics/markdown-features"
               },
               "next": {
                 "title": "Congratulations!",
-                "permalink": "/Docusaurus1/docs/tutorial-basics/congratulations"
+                "permalink": "/Homer-test/docs/tutorial-basics/congratulations"
               }
             },
             {
@@ -258,7 +309,7 @@
               "source": "@site/docs/tutorial-basics/markdown-features.mdx",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/markdown-features",
-              "permalink": "/Docusaurus1/docs/tutorial-basics/markdown-features",
+              "permalink": "/Homer-test/docs/tutorial-basics/markdown-features",
               "draft": false,
               "editUrl": "https://github.com/AjaIoa/Docusaurus1/blob/master/docs/tutorial-basics/markdown-features.mdx",
               "tags": [],
@@ -270,11 +321,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Create a Blog Post",
-                "permalink": "/Docusaurus1/docs/tutorial-basics/create-a-blog-post"
+                "permalink": "/Homer-test/docs/tutorial-basics/create-a-blog-post"
               },
               "next": {
                 "title": "Deploy your site",
-                "permalink": "/Docusaurus1/docs/tutorial-basics/deploy-your-site"
+                "permalink": "/Homer-test/docs/tutorial-basics/deploy-your-site"
               }
             },
             {
@@ -285,7 +336,7 @@
               "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
               "sourceDirName": "tutorial-extras",
               "slug": "/tutorial-extras/manage-docs-versions",
-              "permalink": "/Docusaurus1/docs/tutorial-extras/manage-docs-versions",
+              "permalink": "/Homer-test/docs/tutorial-extras/manage-docs-versions",
               "draft": false,
               "editUrl": "https://github.com/AjaIoa/Docusaurus1/blob/master/docs/tutorial-extras/manage-docs-versions.md",
               "tags": [],
@@ -297,11 +348,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Tutorial - Extras",
-                "permalink": "/Docusaurus1/docs/category/tutorial---extras"
+                "permalink": "/Homer-test/docs/category/tutorial---extras"
               },
               "next": {
                 "title": "Translate your site",
-                "permalink": "/Docusaurus1/docs/tutorial-extras/translate-your-site"
+                "permalink": "/Homer-test/docs/tutorial-extras/translate-your-site"
               }
             },
             {
@@ -312,7 +363,7 @@
               "source": "@site/docs/tutorial-extras/translate-your-site.md",
               "sourceDirName": "tutorial-extras",
               "slug": "/tutorial-extras/translate-your-site",
-              "permalink": "/Docusaurus1/docs/tutorial-extras/translate-your-site",
+              "permalink": "/Homer-test/docs/tutorial-extras/translate-your-site",
               "draft": false,
               "editUrl": "https://github.com/AjaIoa/Docusaurus1/blob/master/docs/tutorial-extras/translate-your-site.md",
               "tags": [],
@@ -324,11 +375,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Manage Docs Versions",
-                "permalink": "/Docusaurus1/docs/tutorial-extras/manage-docs-versions"
+                "permalink": "/Homer-test/docs/tutorial-extras/manage-docs-versions"
               },
               "next": {
                 "title": "Jitsi",
-                "permalink": "/Docusaurus1/docs/jitsi/"
+                "permalink": "/Homer-test/docs/jitsi/"
               }
             }
           ],
@@ -374,7 +425,7 @@
                   "type": "generated-index",
                   "description": "5 minutes to learn the most important Docusaurus concepts.",
                   "slug": "/category/tutorial---basics",
-                  "permalink": "/Docusaurus1/docs/category/tutorial---basics"
+                  "permalink": "/Homer-test/docs/category/tutorial---basics"
                 }
               },
               {
@@ -395,7 +446,7 @@
                 "link": {
                   "type": "generated-index",
                   "slug": "/category/tutorial---extras",
-                  "permalink": "/Docusaurus1/docs/category/tutorial---extras"
+                  "permalink": "/Homer-test/docs/category/tutorial---extras"
                 }
               },
               {
@@ -433,6 +484,22 @@
                   "type": "doc",
                   "id": "jitsi/jitsi"
                 }
+              },
+              {
+                "type": "category",
+                "label": "Homerr",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "homer/j-box-"
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "homer/homer"
+                }
               }
             ]
           }
@@ -447,7 +514,7 @@
         {
           "id": "welcome",
           "metadata": {
-            "permalink": "/Docusaurus1/blog/welcome",
+            "permalink": "/Homer-test/blog/welcome",
             "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
             "source": "@site/blog/2021-08-26-welcome/index.md",
             "title": "Welcome",
@@ -457,15 +524,15 @@
             "tags": [
               {
                 "label": "facebook",
-                "permalink": "/Docusaurus1/blog/tags/facebook"
+                "permalink": "/Homer-test/blog/tags/facebook"
               },
               {
                 "label": "hello",
-                "permalink": "/Docusaurus1/blog/tags/hello"
+                "permalink": "/Homer-test/blog/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/Docusaurus1/blog/tags/docusaurus"
+                "permalink": "/Homer-test/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.405,
@@ -501,7 +568,7 @@
             },
             "nextItem": {
               "title": "MDX Blog Post",
-              "permalink": "/Docusaurus1/blog/mdx-blog-post"
+              "permalink": "/Homer-test/blog/mdx-blog-post"
             }
           },
           "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
@@ -509,7 +576,7 @@
         {
           "id": "mdx-blog-post",
           "metadata": {
-            "permalink": "/Docusaurus1/blog/mdx-blog-post",
+            "permalink": "/Homer-test/blog/mdx-blog-post",
             "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
             "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
             "title": "MDX Blog Post",
@@ -519,7 +586,7 @@
             "tags": [
               {
                 "label": "docusaurus",
-                "permalink": "/Docusaurus1/blog/tags/docusaurus"
+                "permalink": "/Homer-test/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.175,
@@ -545,11 +612,11 @@
             },
             "prevItem": {
               "title": "Welcome",
-              "permalink": "/Docusaurus1/blog/welcome"
+              "permalink": "/Homer-test/blog/welcome"
             },
             "nextItem": {
               "title": "Long Blog Post",
-              "permalink": "/Docusaurus1/blog/long-blog-post"
+              "permalink": "/Homer-test/blog/long-blog-post"
             }
           },
           "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
@@ -557,7 +624,7 @@
         {
           "id": "long-blog-post",
           "metadata": {
-            "permalink": "/Docusaurus1/blog/long-blog-post",
+            "permalink": "/Homer-test/blog/long-blog-post",
             "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-29-long-blog-post.md",
             "source": "@site/blog/2019-05-29-long-blog-post.md",
             "title": "Long Blog Post",
@@ -567,11 +634,11 @@
             "tags": [
               {
                 "label": "hello",
-                "permalink": "/Docusaurus1/blog/tags/hello"
+                "permalink": "/Homer-test/blog/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/Docusaurus1/blog/tags/docusaurus"
+                "permalink": "/Homer-test/blog/tags/docusaurus"
               }
             ],
             "readingTime": 2.05,
@@ -596,11 +663,11 @@
             },
             "prevItem": {
               "title": "MDX Blog Post",
-              "permalink": "/Docusaurus1/blog/mdx-blog-post"
+              "permalink": "/Homer-test/blog/mdx-blog-post"
             },
             "nextItem": {
               "title": "First Blog Post",
-              "permalink": "/Docusaurus1/blog/first-blog-post"
+              "permalink": "/Homer-test/blog/first-blog-post"
             }
           },
           "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
@@ -608,7 +675,7 @@
         {
           "id": "first-blog-post",
           "metadata": {
-            "permalink": "/Docusaurus1/blog/first-blog-post",
+            "permalink": "/Homer-test/blog/first-blog-post",
             "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-28-first-blog-post.md",
             "source": "@site/blog/2019-05-28-first-blog-post.md",
             "title": "First Blog Post",
@@ -618,11 +685,11 @@
             "tags": [
               {
                 "label": "hola",
-                "permalink": "/Docusaurus1/blog/tags/hola"
+                "permalink": "/Homer-test/blog/tags/hola"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/Docusaurus1/blog/tags/docusaurus"
+                "permalink": "/Homer-test/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.12,
@@ -653,7 +720,7 @@
             },
             "prevItem": {
               "title": "Long Blog Post",
-              "permalink": "/Docusaurus1/blog/long-blog-post"
+              "permalink": "/Homer-test/blog/long-blog-post"
             }
           },
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
@@ -668,7 +735,7 @@
             "first-blog-post"
           ],
           "metadata": {
-            "permalink": "/Docusaurus1/blog",
+            "permalink": "/Homer-test/blog",
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
@@ -679,19 +746,19 @@
         }
       ],
       "blogTags": {
-        "/Docusaurus1/blog/tags/facebook": {
+        "/Homer-test/blog/tags/facebook": {
           "label": "facebook",
           "items": [
             "welcome"
           ],
-          "permalink": "/Docusaurus1/blog/tags/facebook",
+          "permalink": "/Homer-test/blog/tags/facebook",
           "pages": [
             {
               "items": [
                 "welcome"
               ],
               "metadata": {
-                "permalink": "/Docusaurus1/blog/tags/facebook",
+                "permalink": "/Homer-test/blog/tags/facebook",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -702,13 +769,13 @@
             }
           ]
         },
-        "/Docusaurus1/blog/tags/hello": {
+        "/Homer-test/blog/tags/hello": {
           "label": "hello",
           "items": [
             "welcome",
             "long-blog-post"
           ],
-          "permalink": "/Docusaurus1/blog/tags/hello",
+          "permalink": "/Homer-test/blog/tags/hello",
           "pages": [
             {
               "items": [
@@ -716,7 +783,7 @@
                 "long-blog-post"
               ],
               "metadata": {
-                "permalink": "/Docusaurus1/blog/tags/hello",
+                "permalink": "/Homer-test/blog/tags/hello",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -727,7 +794,7 @@
             }
           ]
         },
-        "/Docusaurus1/blog/tags/docusaurus": {
+        "/Homer-test/blog/tags/docusaurus": {
           "label": "docusaurus",
           "items": [
             "welcome",
@@ -735,7 +802,7 @@
             "long-blog-post",
             "first-blog-post"
           ],
-          "permalink": "/Docusaurus1/blog/tags/docusaurus",
+          "permalink": "/Homer-test/blog/tags/docusaurus",
           "pages": [
             {
               "items": [
@@ -745,7 +812,7 @@
                 "first-blog-post"
               ],
               "metadata": {
-                "permalink": "/Docusaurus1/blog/tags/docusaurus",
+                "permalink": "/Homer-test/blog/tags/docusaurus",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -756,19 +823,19 @@
             }
           ]
         },
-        "/Docusaurus1/blog/tags/hola": {
+        "/Homer-test/blog/tags/hola": {
           "label": "hola",
           "items": [
             "first-blog-post"
           ],
-          "permalink": "/Docusaurus1/blog/tags/hola",
+          "permalink": "/Homer-test/blog/tags/hola",
           "pages": [
             {
               "items": [
                 "first-blog-post"
               ],
               "metadata": {
-                "permalink": "/Docusaurus1/blog/tags/hola",
+                "permalink": "/Homer-test/blog/tags/hola",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -780,19 +847,19 @@
           ]
         }
       },
-      "blogTagsListPath": "/Docusaurus1/blog/tags"
+      "blogTagsListPath": "/Homer-test/blog/tags"
     }
   },
   "docusaurus-plugin-content-pages": {
     "default": [
       {
         "type": "jsx",
-        "permalink": "/Docusaurus1/",
+        "permalink": "/Homer-test/",
         "source": "@site/src/pages/index.js"
       },
       {
         "type": "mdx",
-        "permalink": "/Docusaurus1/markdown-page",
+        "permalink": "/Homer-test/markdown-page",
         "source": "@site/src/pages/markdown-page.md",
         "title": "Markdown page example",
         "description": "You don't need React to write simple standalone pages.",

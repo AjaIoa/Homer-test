@@ -1,0 +1,24 @@
+{
+  "unversionedId": "homer/homer",
+  "id": "homer/homer",
+  "title": "homer",
+  "description": "A hybrid classroom combines traditional face-to-face teaching with online teaching.",
+  "source": "@site/docs/homer/homer.md",
+  "sourceDirName": "homer",
+  "slug": "/homer/",
+  "permalink": "/Homer-test/docs/homer/",
+  "draft": false,
+  "editUrl": "https://github.com/AjaIoa/Docusaurus1/blob/master/docs/homer/homer.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SIPMediaDeploy",
+    "permalink": "/Homer-test/docs/jitsi/sip-media/sip-media-deploy"
+  },
+  "next": {
+    "title": "Test",
+    "permalink": "/Homer-test/docs/homer/j-box-"
+  }
+}

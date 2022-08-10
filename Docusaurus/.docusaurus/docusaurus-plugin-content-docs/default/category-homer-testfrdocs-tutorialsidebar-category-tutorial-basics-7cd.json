@@ -1,0 +1,16 @@
+{
+  "title": "Tutorial - Basics",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/tutorial---basics",
+  "permalink": "/Homer-test/fr/docs/category/tutorial---basics",
+  "navigation": {
+    "previous": {
+      "title": "Intro Tutorial",
+      "permalink": "/Homer-test/fr/docs/intro"
+    },
+    "next": {
+      "title": "Create a Page",
+      "permalink": "/Homer-test/fr/docs/tutorial-basics/create-a-page"
+    }
+  }
+}

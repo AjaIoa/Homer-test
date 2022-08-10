@@ -6,7 +6,7 @@
   "source": "@site/docs/jitsi/jitsi-box/j-box-.md",
   "sourceDirName": "jitsi/jitsi-box",
   "slug": "/jitsi/jitsi-box/j-box-",
-  "permalink": "/Docusaurus1/docs/jitsi/jitsi-box/j-box-",
+  "permalink": "/Homer-test/docs/jitsi/jitsi-box/j-box-",
   "draft": false,
   "editUrl": "https://github.com/AjaIoa/Docusaurus1/blob/master/docs/jitsi/jitsi-box/j-box-.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Jitsi",
-    "permalink": "/Docusaurus1/docs/jitsi/"
+    "permalink": "/Homer-test/docs/jitsi/"
   },
   "next": {
     "title": "SIPMediaDeploy",
-    "permalink": "/Docusaurus1/docs/jitsi/sip-media/sip-media-deploy"
+    "permalink": "/Homer-test/docs/jitsi/sip-media/sip-media-deploy"
   }
 }

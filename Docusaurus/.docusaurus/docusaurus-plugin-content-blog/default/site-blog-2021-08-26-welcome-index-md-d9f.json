@@ -1,5 +1,5 @@
 {
-  "permalink": "/Docusaurus1/blog/welcome",
+  "permalink": "/Homer-test/blog/welcome",
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
   "source": "@site/blog/2021-08-26-welcome/index.md",
   "title": "Welcome",
@@ -9,15 +9,15 @@
   "tags": [
     {
       "label": "facebook",
-      "permalink": "/Docusaurus1/blog/tags/facebook"
+      "permalink": "/Homer-test/blog/tags/facebook"
     },
     {
       "label": "hello",
-      "permalink": "/Docusaurus1/blog/tags/hello"
+      "permalink": "/Homer-test/blog/tags/hello"
     },
     {
       "label": "docusaurus",
-      "permalink": "/Docusaurus1/blog/tags/docusaurus"
+      "permalink": "/Homer-test/blog/tags/docusaurus"
     }
   ],
   "readingTime": 0.405,
@@ -53,6 +53,6 @@
   },
   "nextItem": {
     "title": "MDX Blog Post",
-    "permalink": "/Docusaurus1/blog/mdx-blog-post"
+    "permalink": "/Homer-test/blog/mdx-blog-post"
   }
 }

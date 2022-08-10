@@ -11,7 +11,7 @@
       {
         "type": "link",
         "label": "Tutorial Intro",
-        "href": "/Docusaurus1/docs/intro",
+        "href": "/Homer-test/docs/intro",
         "docId": "intro"
       },
       {
@@ -23,41 +23,41 @@
           {
             "type": "link",
             "label": "Create a Page",
-            "href": "/Docusaurus1/docs/tutorial-basics/create-a-page",
+            "href": "/Homer-test/docs/tutorial-basics/create-a-page",
             "docId": "tutorial-basics/create-a-page"
           },
           {
             "type": "link",
             "label": "Create a Document",
-            "href": "/Docusaurus1/docs/tutorial-basics/create-a-document",
+            "href": "/Homer-test/docs/tutorial-basics/create-a-document",
             "docId": "tutorial-basics/create-a-document"
           },
           {
             "type": "link",
             "label": "Create a Blog Post",
-            "href": "/Docusaurus1/docs/tutorial-basics/create-a-blog-post",
+            "href": "/Homer-test/docs/tutorial-basics/create-a-blog-post",
             "docId": "tutorial-basics/create-a-blog-post"
           },
           {
             "type": "link",
             "label": "Markdown Features",
-            "href": "/Docusaurus1/docs/tutorial-basics/markdown-features",
+            "href": "/Homer-test/docs/tutorial-basics/markdown-features",
             "docId": "tutorial-basics/markdown-features"
           },
           {
             "type": "link",
             "label": "Deploy your site",
-            "href": "/Docusaurus1/docs/tutorial-basics/deploy-your-site",
+            "href": "/Homer-test/docs/tutorial-basics/deploy-your-site",
             "docId": "tutorial-basics/deploy-your-site"
           },
           {
             "type": "link",
             "label": "Congratulations!",
-            "href": "/Docusaurus1/docs/tutorial-basics/congratulations",
+            "href": "/Homer-test/docs/tutorial-basics/congratulations",
             "docId": "tutorial-basics/congratulations"
           }
         ],
-        "href": "/Docusaurus1/docs/category/tutorial---basics"
+        "href": "/Homer-test/docs/category/tutorial---basics"
       },
       {
         "type": "category",
@@ -68,17 +68,17 @@
           {
             "type": "link",
             "label": "Manage Docs Versions",
-            "href": "/Docusaurus1/docs/tutorial-extras/manage-docs-versions",
+            "href": "/Homer-test/docs/tutorial-extras/manage-docs-versions",
             "docId": "tutorial-extras/manage-docs-versions"
           },
           {
             "type": "link",
             "label": "Translate your site",
-            "href": "/Docusaurus1/docs/tutorial-extras/translate-your-site",
+            "href": "/Homer-test/docs/tutorial-extras/translate-your-site",
             "docId": "tutorial-extras/translate-your-site"
           }
         ],
-        "href": "/Docusaurus1/docs/category/tutorial---extras"
+        "href": "/Homer-test/docs/category/tutorial---extras"
       },
       {
         "type": "category",
@@ -95,7 +95,7 @@
               {
                 "type": "link",
                 "label": "Jitsi Box",
-                "href": "/Docusaurus1/docs/jitsi/jitsi-box/j-box-",
+                "href": "/Homer-test/docs/jitsi/jitsi-box/j-box-",
                 "docId": "jitsi/jitsi-box/j-box-"
               }
             ]
@@ -109,17 +109,44 @@
               {
                 "type": "link",
                 "label": "SIPMediaDeploy",
-                "href": "/Docusaurus1/docs/jitsi/sip-media/sip-media-deploy",
+                "href": "/Homer-test/docs/jitsi/sip-media/sip-media-deploy",
                 "docId": "jitsi/sip-media/sip-media-deploy"
               }
             ]
           }
         ],
-        "href": "/Docusaurus1/docs/jitsi/"
+        "href": "/Homer-test/docs/jitsi/"
+      },
+      {
+        "type": "category",
+        "label": "Homerr",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Test",
+            "href": "/Homer-test/docs/homer/j-box-",
+            "docId": "homer/j-box-"
+          }
+        ],
+        "href": "/Homer-test/docs/homer/"
       }
     ]
   },
   "docs": {
+    "homer/homer": {
+      "id": "homer/homer",
+      "title": "homer",
+      "description": "A hybrid classroom combines traditional face-to-face teaching with online teaching.",
+      "sidebar": "tutorialSidebar"
+    },
+    "homer/j-box-": {
+      "id": "homer/j-box-",
+      "title": "Test",
+      "description": "Jitsi Box, an opensource device for hybrid classrooms and conferences",
+      "sidebar": "tutorialSidebar"
+    },
     "intro": {
       "id": "intro",
       "title": "Tutorial Intro",
@@ -129,7 +156,7 @@
     "jitsi/jitsi": {
       "id": "jitsi/jitsi",
       "title": "Jitsi",
-      "description": "",
+      "description": "Edit",
       "sidebar": "tutorialSidebar"
     },
     "jitsi/jitsi-box/j-box-": {

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "homer/j-box-",
+  "id": "homer/j-box-",
+  "title": "Test",
+  "description": "Jitsi Box, an opensource device for hybrid classrooms and conferences",
+  "source": "@site/docs/homer/j-box-.md",
+  "sourceDirName": "homer",
+  "slug": "/homer/j-box-",
+  "permalink": "/Homer-test/docs/homer/j-box-",
+  "draft": false,
+  "editUrl": "https://github.com/AjaIoa/Docusaurus1/blob/master/docs/homer/j-box-.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "homer",
+    "permalink": "/Homer-test/docs/homer/"
+  }
+}

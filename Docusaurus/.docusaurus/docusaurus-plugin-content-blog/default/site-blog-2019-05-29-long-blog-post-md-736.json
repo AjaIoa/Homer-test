@@ -1,5 +1,5 @@
 {
-  "permalink": "/Docusaurus1/blog/long-blog-post",
+  "permalink": "/Homer-test/blog/long-blog-post",
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-29-long-blog-post.md",
   "source": "@site/blog/2019-05-29-long-blog-post.md",
   "title": "Long Blog Post",
@@ -9,11 +9,11 @@
   "tags": [
     {
       "label": "hello",
-      "permalink": "/Docusaurus1/blog/tags/hello"
+      "permalink": "/Homer-test/blog/tags/hello"
     },
     {
       "label": "docusaurus",
-      "permalink": "/Docusaurus1/blog/tags/docusaurus"
+      "permalink": "/Homer-test/blog/tags/docusaurus"
     }
   ],
   "readingTime": 2.05,
@@ -38,10 +38,10 @@
   },
   "prevItem": {
     "title": "MDX Blog Post",
-    "permalink": "/Docusaurus1/blog/mdx-blog-post"
+    "permalink": "/Homer-test/blog/mdx-blog-post"
   },
   "nextItem": {
     "title": "First Blog Post",
-    "permalink": "/Docusaurus1/blog/first-blog-post"
+    "permalink": "/Homer-test/blog/first-blog-post"
   }
 }
