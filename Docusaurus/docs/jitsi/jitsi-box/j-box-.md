@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 # Jitsi Box
 
-## Jitsi Box, an opensource device for hybrid classrooms and conferences
+## Jitsi BoxXXXX, an opensource device for hybrid classrooms and conferences
 
 A hybrid classroom combines traditional face-to-face teaching with online teaching.
 
