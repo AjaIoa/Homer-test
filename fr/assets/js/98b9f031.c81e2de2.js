@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1967],{1451:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/Homer-test/fr/blog/tags/hola","allTagsPath":"/Homer-test/fr/blog/tags","count":1}')}}]);
