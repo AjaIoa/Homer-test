@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 # Jitsi Box
 
-## Jitsi Box, an opensource device for hybrid classrooms and conferences
+## Jitsi BoxXXXX, an opensource device for hybrid classrooms and conferences
 
 A hybrid classroom combines traditional face-to-face teaching with online teaching.
 
@@ -27,6 +27,9 @@ All of these outputs can be chosen by he/she who setups the jitsi-box in a room.
 A version of the application is available on https://jitsi-box.com
 
 The application has been configured as a Progressive Web App and can therefore be installed on the desktop of any device.
+<<<<<<< HEAD
 
 
 [Edit](https://github.com/AjaIoa/Homer-test/blob/master/Docusaurus/docs/jitsi/jitsi-box/j-box-.md)
+=======
+>>>>>>> 823e48374726e97c5e8b27824f9ebf19b289a6e9
