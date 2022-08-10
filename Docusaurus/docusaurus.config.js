@@ -6,10 +6,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Docusaurus',
+  title: 'Docusaurus Homer-Test',
   tagline: 'Documenter c\'est cool',
   url: 'https://AjaIoa.github.io',
-  baseUrl: '/Docusaurus1/',
+  baseUrl: '/Homer-test/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -17,7 +17,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'AjaIoa', // Usually your GitHub org/user name.
-  projectName: 'Docusaurus1', // Usually your repo name.
+  projectName: 'Homer-test', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -72,7 +72,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/AjaIoa/Docusaurus1/',
+            href: 'https://github.com/AjaIoa/Homer-test/',
             label: 'GitHub',
             position: 'right',
           },
@@ -120,7 +120,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/AjaIoa/Docusaurus1',
+                href: 'https://github.com/AjaIoa/Homer-test',
               },
             ],
           },
