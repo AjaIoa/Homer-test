@@ -6,7 +6,7 @@
 export default {
   "title": "Docusaurus Homer-Test",
   "tagline": "Documenter c'est cool",
-  "url": "https://AjaIoa.github.io",
+  "url": "https://testSnap.github.io",
   "baseUrl": "/Homer-test/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",

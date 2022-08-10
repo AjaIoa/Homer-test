@@ -10,8 +10,8 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "Tutorial Intro",
-        "href": "/Homer-test/docs/intro",
+        "label": "Intro Tutorial",
+        "href": "/Homer-test/fr/docs/intro",
         "docId": "intro"
       },
       {
@@ -23,41 +23,41 @@
           {
             "type": "link",
             "label": "Create a Page",
-            "href": "/Homer-test/docs/tutorial-basics/create-a-page",
+            "href": "/Homer-test/fr/docs/tutorial-basics/create-a-page",
             "docId": "tutorial-basics/create-a-page"
           },
           {
             "type": "link",
             "label": "Create a Document",
-            "href": "/Homer-test/docs/tutorial-basics/create-a-document",
+            "href": "/Homer-test/fr/docs/tutorial-basics/create-a-document",
             "docId": "tutorial-basics/create-a-document"
           },
           {
             "type": "link",
             "label": "Create a Blog Post",
-            "href": "/Homer-test/docs/tutorial-basics/create-a-blog-post",
+            "href": "/Homer-test/fr/docs/tutorial-basics/create-a-blog-post",
             "docId": "tutorial-basics/create-a-blog-post"
           },
           {
             "type": "link",
             "label": "Markdown Features",
-            "href": "/Homer-test/docs/tutorial-basics/markdown-features",
+            "href": "/Homer-test/fr/docs/tutorial-basics/markdown-features",
             "docId": "tutorial-basics/markdown-features"
           },
           {
             "type": "link",
             "label": "Deploy your site",
-            "href": "/Homer-test/docs/tutorial-basics/deploy-your-site",
+            "href": "/Homer-test/fr/docs/tutorial-basics/deploy-your-site",
             "docId": "tutorial-basics/deploy-your-site"
           },
           {
             "type": "link",
             "label": "Congratulations!",
-            "href": "/Homer-test/docs/tutorial-basics/congratulations",
+            "href": "/Homer-test/fr/docs/tutorial-basics/congratulations",
             "docId": "tutorial-basics/congratulations"
           }
         ],
-        "href": "/Homer-test/docs/category/tutorial---basics"
+        "href": "/Homer-test/fr/docs/category/tutorial---basics"
       },
       {
         "type": "category",
@@ -68,17 +68,17 @@
           {
             "type": "link",
             "label": "Manage Docs Versions",
-            "href": "/Homer-test/docs/tutorial-extras/manage-docs-versions",
+            "href": "/Homer-test/fr/docs/tutorial-extras/manage-docs-versions",
             "docId": "tutorial-extras/manage-docs-versions"
           },
           {
             "type": "link",
             "label": "Translate your site",
-            "href": "/Homer-test/docs/tutorial-extras/translate-your-site",
+            "href": "/Homer-test/fr/docs/tutorial-extras/translate-your-site",
             "docId": "tutorial-extras/translate-your-site"
           }
         ],
-        "href": "/Homer-test/docs/category/tutorial---extras"
+        "href": "/Homer-test/fr/docs/category/tutorial---extras"
       },
       {
         "type": "category",
@@ -95,7 +95,7 @@
               {
                 "type": "link",
                 "label": "Jitsi Box",
-                "href": "/Homer-test/docs/jitsi/jitsi-box/j-box-",
+                "href": "/Homer-test/fr/docs/jitsi/jitsi-box/j-box-",
                 "docId": "jitsi/jitsi-box/j-box-"
               }
             ]
@@ -109,13 +109,13 @@
               {
                 "type": "link",
                 "label": "SIPMediaDeploy",
-                "href": "/Homer-test/docs/jitsi/sip-media/sip-media-deploy",
+                "href": "/Homer-test/fr/docs/jitsi/sip-media/sip-media-deploy",
                 "docId": "jitsi/sip-media/sip-media-deploy"
               }
             ]
           }
         ],
-        "href": "/Homer-test/docs/jitsi/"
+        "href": "/Homer-test/fr/docs/jitsi/"
       },
       {
         "type": "category",
@@ -126,11 +126,11 @@
           {
             "type": "link",
             "label": "Test",
-            "href": "/Homer-test/docs/homer/j-box-",
+            "href": "/Homer-test/fr/docs/homer/j-box-",
             "docId": "homer/j-box-"
           }
         ],
-        "href": "/Homer-test/docs/homer/"
+        "href": "/Homer-test/fr/docs/homer/"
       }
     ]
   },
@@ -149,8 +149,8 @@
     },
     "intro": {
       "id": "intro",
-      "title": "Tutorial Intro",
-      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "title": "Intro Tutorial",
+      "description": "Découvrons Docusaurus en moins de 5 minutes.",
       "sidebar": "tutorialSidebar"
     },
     "jitsi/jitsi": {

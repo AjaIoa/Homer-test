@@ -1,267 +1,224 @@
 {
-  "/Homer-test/__docusaurus/debug-94b": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
+  "/Homer-test/fr/blog-54c": {
+    "__comp": "a6aa9e1f",
     "__context": {
-      "plugin": "plugin---homer-test-docusaurus-debug-59-f-d7e"
-    }
-  },
-  "/Homer-test/__docusaurus/debug/config-0d2": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---homer-test-docusaurus-debug-59-f-d7e"
-    }
-  },
-  "/Homer-test/__docusaurus/debug/content-24e": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---homer-test-docusaurus-debug-59-f-d7e"
+      "plugin": "0739dd6b"
     },
-    "allContent": "allContent---homer-test-docusaurus-debug-content-246-e6d"
-  },
-  "/Homer-test/__docusaurus/debug/globalData-a36": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---homer-test-docusaurus-debug-59-f-d7e"
-    }
-  },
-  "/Homer-test/__docusaurus/debug/metadata-2d6": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---homer-test-docusaurus-debug-59-f-d7e"
-    }
-  },
-  "/Homer-test/__docusaurus/debug/registry-e20": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---homer-test-docusaurus-debug-59-f-d7e"
-    }
-  },
-  "/Homer-test/__docusaurus/debug/routes-56a": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---homer-test-docusaurus-debug-59-f-d7e"
-    }
-  },
-  "/Homer-test/blog-8d4": {
-    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
-    "__context": {
-      "plugin": "plugin---homer-test-blog-073-961"
-    },
-    "sidebar": "sidebar---homer-test-blog-814-50e",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---homer-test-blog-766-815"
+        "content": "7661071f"
       },
       {
-        "content": "content---homer-test-blogf-4-f-6dd"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---homer-test-blog-871-a35"
+        "content": "8717b14a"
       },
       {
-        "content": "content---homer-test-blog-925-0eb"
+        "content": "925b3f96"
       }
     ],
-    "metadata": "metadata---homer-test-blog-928-e91"
+    "metadata": "77733fc8"
   },
-  "/Homer-test/blog/archive-7a9": {
-    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+  "/Homer-test/fr/blog/archive-b19": {
+    "__comp": "9e4087bc",
     "__context": {
-      "plugin": "plugin---homer-test-blog-073-961"
+      "plugin": "0739dd6b"
     },
-    "archive": "archive---homer-test-blog-archive-76-a-69e"
+    "archive": "24119d42"
   },
-  "/Homer-test/blog/first-blog-post-a76": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+  "/Homer-test/fr/blog/first-blog-post-512": {
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---homer-test-blog-073-961"
+      "plugin": "0739dd6b"
     },
-    "sidebar": "sidebar---homer-test-blog-814-50e",
-    "content": "content---homer-test-blog-first-blog-poste-27-08e"
+    "sidebar": "814f3328",
+    "content": "e273c56f"
   },
-  "/Homer-test/blog/long-blog-post-ae1": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+  "/Homer-test/fr/blog/long-blog-post-d7e": {
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---homer-test-blog-073-961"
+      "plugin": "0739dd6b"
     },
-    "sidebar": "sidebar---homer-test-blog-814-50e",
-    "content": "content---homer-test-blog-long-blog-post-736-42d"
+    "sidebar": "814f3328",
+    "content": "73664a40"
   },
-  "/Homer-test/blog/mdx-blog-post-19a": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+  "/Homer-test/fr/blog/mdx-blog-post-775": {
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---homer-test-blog-073-961"
+      "plugin": "0739dd6b"
     },
-    "sidebar": "sidebar---homer-test-blog-814-50e",
-    "content": "content---homer-test-blog-mdx-blog-post-593-033"
+    "sidebar": "814f3328",
+    "content": "59362658"
   },
-  "/Homer-test/blog/tags-078": {
-    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+  "/Homer-test/fr/blog/tags-d7b": {
+    "__comp": "01a85c17",
     "__context": {
-      "plugin": "plugin---homer-test-blog-073-961"
+      "plugin": "0739dd6b"
     },
-    "sidebar": "sidebar---homer-test-blog-814-50e",
-    "tags": "tags---homer-test-blog-tags-0-cc-051"
+    "sidebar": "814f3328",
+    "tags": "9cd501b4"
   },
-  "/Homer-test/blog/tags/docusaurus-b83": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+  "/Homer-test/fr/blog/tags/docusaurus-534": {
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---homer-test-blog-073-961"
+      "plugin": "0739dd6b"
     },
-    "sidebar": "sidebar---homer-test-blog-814-50e",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---homer-test-blog-766-815"
+        "content": "7661071f"
       },
       {
-        "content": "content---homer-test-blogf-4-f-6dd"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---homer-test-blog-871-a35"
+        "content": "8717b14a"
       },
       {
-        "content": "content---homer-test-blog-925-0eb"
+        "content": "925b3f96"
       }
     ],
-    "tag": "tag---homer-test-blog-tags-docusaurus-6-c-0-095",
-    "listMetadata": "listMetadata---homer-test-blog-tags-docusaurusb-1-c-b47"
+    "tag": "e4eba6d6",
+    "listMetadata": "3e9cd622"
   },
-  "/Homer-test/blog/tags/facebook-cf9": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+  "/Homer-test/fr/blog/tags/facebook-189": {
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---homer-test-blog-073-961"
+      "plugin": "0739dd6b"
     },
-    "sidebar": "sidebar---homer-test-blog-814-50e",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---homer-test-blog-766-815"
+        "content": "7661071f"
       }
     ],
-    "tag": "tag---homer-test-blog-tags-facebook-084-592",
-    "listMetadata": "listMetadata---homer-test-blog-tags-facebook-414-cbd"
+    "tag": "774ce68e",
+    "listMetadata": "cad154fa"
   },
-  "/Homer-test/blog/tags/hello-0c5": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+  "/Homer-test/fr/blog/tags/hello-a49": {
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---homer-test-blog-073-961"
+      "plugin": "0739dd6b"
     },
-    "sidebar": "sidebar---homer-test-blog-814-50e",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---homer-test-blog-766-815"
+        "content": "7661071f"
       },
       {
-        "content": "content---homer-test-blog-871-a35"
+        "content": "8717b14a"
       }
     ],
-    "tag": "tag---homer-test-blog-tags-hellob-43-d45",
-    "listMetadata": "listMetadata---homer-test-blog-tags-hellobbb-4a3"
+    "tag": "dc2cd33e",
+    "listMetadata": "c43f493f"
   },
-  "/Homer-test/blog/tags/hola-db4": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+  "/Homer-test/fr/blog/tags/hola-0c7": {
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---homer-test-blog-073-961"
+      "plugin": "0739dd6b"
     },
-    "sidebar": "sidebar---homer-test-blog-814-50e",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---homer-test-blog-925-0eb"
+        "content": "925b3f96"
       }
     ],
-    "tag": "tag---homer-test-blog-tags-hola-0-d-9-557",
-    "listMetadata": "listMetadata---homer-test-blog-tags-hola-10-b-5be"
+    "tag": "98b9f031",
+    "listMetadata": "a84dbff0"
   },
-  "/Homer-test/blog/welcome-ab6": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+  "/Homer-test/fr/blog/welcome-a58": {
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---homer-test-blog-073-961"
+      "plugin": "0739dd6b"
     },
-    "sidebar": "sidebar---homer-test-blog-814-50e",
-    "content": "content---homer-test-blog-welcomed-9-f-e0b"
+    "sidebar": "814f3328",
+    "content": "d9f32620"
   },
-  "/Homer-test/markdown-page-fe4": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+  "/Homer-test/fr/markdown-page-6b0": {
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---homer-test-markdown-pageb-55-ed8"
+      "plugin": "b551517a"
     },
-    "content": "content---homer-test-markdown-page-393-988"
+    "content": "393be207"
   },
-  "/Homer-test/docs-38a": {
-    "__comp": "__comp---theme-doc-page-1-be-9be",
+  "/Homer-test/fr/docs-370": {
+    "__comp": "1be78505",
     "__context": {
-      "plugin": "plugin---homer-test-docs-108-35d"
+      "plugin": "108c16fb"
     },
-    "versionMetadata": "versionMetadata---homer-test-docs-935-ea9"
+    "versionMetadata": "935f2afb"
   },
-  "/Homer-test/docs/category/tutorial---basics-ec3": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---homer-test-docs-category-tutorial-basicsb-63-8b4"
+  "/Homer-test/fr/docs/category/tutorial---basics-504": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "23de5cb8"
   },
-  "/Homer-test/docs/category/tutorial---extras-392": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---homer-test-docs-category-tutorial-extras-116-396"
+  "/Homer-test/fr/docs/category/tutorial---extras-6e3": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "bbdd8c67"
   },
-  "/Homer-test/docs/homer/-6b5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---homer-test-docs-homer-f-9-e-c29"
+  "/Homer-test/fr/docs/homer/-1f7": {
+    "__comp": "17896441",
+    "content": "f9e0ab34"
   },
-  "/Homer-test/docs/homer/j-box--ee1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---homer-test-docs-homer-j-box-69-a-d12"
+  "/Homer-test/fr/docs/homer/j-box--daf": {
+    "__comp": "17896441",
+    "content": "69ae2f3d"
   },
-  "/Homer-test/docs/intro-4cd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---homer-test-docs-intro-0-e-3-ee3"
+  "/Homer-test/fr/docs/intro-037": {
+    "__comp": "17896441",
+    "content": "57a1d77e"
   },
-  "/Homer-test/docs/jitsi/-745": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---homer-test-docs-jitsi-8-be-31e"
+  "/Homer-test/fr/docs/jitsi/-96e": {
+    "__comp": "17896441",
+    "content": "8be93b4e"
   },
-  "/Homer-test/docs/jitsi/jitsi-box/j-box--8a4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---homer-test-docs-jitsi-jitsi-box-j-box-b-02-675"
+  "/Homer-test/fr/docs/jitsi/jitsi-box/j-box--4c0": {
+    "__comp": "17896441",
+    "content": "b02b1a2a"
   },
-  "/Homer-test/docs/jitsi/sip-media/sip-media-deploy-711": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---homer-test-docs-jitsi-sip-media-sip-media-deploy-2-b-0-163"
+  "/Homer-test/fr/docs/jitsi/sip-media/sip-media-deploy-224": {
+    "__comp": "17896441",
+    "content": "2b0d62a0"
   },
-  "/Homer-test/docs/tutorial-basics/congratulations-eba": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---homer-test-docs-tutorial-basics-congratulations-822-469"
+  "/Homer-test/fr/docs/tutorial-basics/congratulations-c85": {
+    "__comp": "17896441",
+    "content": "822bd8ab"
   },
-  "/Homer-test/docs/tutorial-basics/create-a-blog-post-0e8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---homer-test-docs-tutorial-basics-create-a-blog-post-533-73d"
+  "/Homer-test/fr/docs/tutorial-basics/create-a-blog-post-5d8": {
+    "__comp": "17896441",
+    "content": "533a09ca"
   },
-  "/Homer-test/docs/tutorial-basics/create-a-document-76d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---homer-test-docs-tutorial-basics-create-a-document-1-e-4-5cc"
+  "/Homer-test/fr/docs/tutorial-basics/create-a-document-b64": {
+    "__comp": "17896441",
+    "content": "1e4232ab"
   },
-  "/Homer-test/docs/tutorial-basics/create-a-page-d9f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---homer-test-docs-tutorial-basics-create-a-page-5-c-8-614"
+  "/Homer-test/fr/docs/tutorial-basics/create-a-page-c50": {
+    "__comp": "17896441",
+    "content": "5c868d36"
   },
-  "/Homer-test/docs/tutorial-basics/deploy-your-site-ec7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---homer-test-docs-tutorial-basics-deploy-your-sitef-55-154"
+  "/Homer-test/fr/docs/tutorial-basics/deploy-your-site-f20": {
+    "__comp": "17896441",
+    "content": "f55d3e7a"
   },
-  "/Homer-test/docs/tutorial-basics/markdown-features-222": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---homer-test-docs-tutorial-basics-markdown-features-18-c-dde"
+  "/Homer-test/fr/docs/tutorial-basics/markdown-features-51f": {
+    "__comp": "17896441",
+    "content": "18c41134"
   },
-  "/Homer-test/docs/tutorial-extras/manage-docs-versions-47a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---homer-test-docs-tutorial-extras-manage-docs-versionsdff-af4"
+  "/Homer-test/fr/docs/tutorial-extras/manage-docs-versions-c07": {
+    "__comp": "17896441",
+    "content": "dff1c289"
   },
-  "/Homer-test/docs/tutorial-extras/translate-your-site-db9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---homer-test-docs-tutorial-extras-translate-your-sitee-44-4b9"
+  "/Homer-test/fr/docs/tutorial-extras/translate-your-site-653": {
+    "__comp": "17896441",
+    "content": "e44a2883"
   },
-  "/Homer-test/-129": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+  "/Homer-test/fr/-30e": {
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---homer-test-markdown-pageb-55-ed8"
+      "plugin": "b551517a"
     },
-    "config": "config---homer-test-5-e-9-30c"
+    "config": "5e9f5e1a"
   }
 }

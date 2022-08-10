@@ -3,19 +3,19 @@
   "items": [
     {
       "title": "Welcome",
-      "permalink": "/Homer-test/blog/welcome"
+      "permalink": "/Homer-test/fr/blog/welcome"
     },
     {
       "title": "MDX Blog Post",
-      "permalink": "/Homer-test/blog/mdx-blog-post"
+      "permalink": "/Homer-test/fr/blog/mdx-blog-post"
     },
     {
       "title": "Long Blog Post",
-      "permalink": "/Homer-test/blog/long-blog-post"
+      "permalink": "/Homer-test/fr/blog/long-blog-post"
     },
     {
       "title": "First Blog Post",
-      "permalink": "/Homer-test/blog/first-blog-post"
+      "permalink": "/Homer-test/fr/blog/first-blog-post"
     }
   ]
 }

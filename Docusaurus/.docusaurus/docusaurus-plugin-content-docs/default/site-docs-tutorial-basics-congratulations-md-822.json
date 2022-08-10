@@ -6,7 +6,7 @@
   "source": "@site/docs/tutorial-basics/congratulations.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/congratulations",
-  "permalink": "/Homer-test/docs/tutorial-basics/congratulations",
+  "permalink": "/Homer-test/fr/docs/tutorial-basics/congratulations",
   "draft": false,
   "editUrl": "https://github.com/AjaIoa/Docusaurus1/blob/master/docs/tutorial-basics/congratulations.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Deploy your site",
-    "permalink": "/Homer-test/docs/tutorial-basics/deploy-your-site"
+    "permalink": "/Homer-test/fr/docs/tutorial-basics/deploy-your-site"
   },
   "next": {
     "title": "Tutorial - Extras",
-    "permalink": "/Homer-test/docs/category/tutorial---extras"
+    "permalink": "/Homer-test/fr/docs/category/tutorial---extras"
   }
 }

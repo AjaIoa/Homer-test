@@ -6,7 +6,7 @@
   "source": "@site/docs/jitsi/sip-media/sip-media-deploy.md",
   "sourceDirName": "jitsi/sip-media",
   "slug": "/jitsi/sip-media/sip-media-deploy",
-  "permalink": "/Homer-test/docs/jitsi/sip-media/sip-media-deploy",
+  "permalink": "/Homer-test/fr/docs/jitsi/sip-media/sip-media-deploy",
   "draft": false,
   "editUrl": "https://github.com/AjaIoa/Docusaurus1/blob/master/docs/jitsi/sip-media/sip-media-deploy.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Jitsi Box",
-    "permalink": "/Homer-test/docs/jitsi/jitsi-box/j-box-"
+    "permalink": "/Homer-test/fr/docs/jitsi/jitsi-box/j-box-"
   },
   "next": {
     "title": "homer",
-    "permalink": "/Homer-test/docs/homer/"
+    "permalink": "/Homer-test/fr/docs/homer/"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/docs/homer/homer.md",
   "sourceDirName": "homer",
   "slug": "/homer/",
-  "permalink": "/Homer-test/docs/homer/",
+  "permalink": "/Homer-test/fr/docs/homer/",
   "draft": false,
   "editUrl": "https://github.com/AjaIoa/Docusaurus1/blob/master/docs/homer/homer.md",
   "tags": [],
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "SIPMediaDeploy",
-    "permalink": "/Homer-test/docs/jitsi/sip-media/sip-media-deploy"
+    "permalink": "/Homer-test/fr/docs/jitsi/sip-media/sip-media-deploy"
   },
   "next": {
     "title": "Test",
-    "permalink": "/Homer-test/docs/homer/j-box-"
+    "permalink": "/Homer-test/fr/docs/homer/j-box-"
   }
 }
